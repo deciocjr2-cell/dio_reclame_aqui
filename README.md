@@ -1,15 +1,10 @@
 Quais perguntas de negócio você escolheu, e por quê ?
----
-Resposta: Escolhi a verificação do faturamento pelos modelos mais vendidos e quais as quilometragens com intuito de ver quais são mais consideradas na hora da venda.
----
+-
+Escolhi a verificação do faturamento pelos modelos mais vendidos e quais as quilometragens com intuito de ver quais são mais consideradas na hora da venda.
+
 O prompt que gerou a dashboard, e o que mudou nele até a versão final;
----
+-
 utilizando o recurso de canvas, renderize uma dashboard em html ao lado com os filtros de modelo, quilometragem e método de pagamento. Sendo as perguntas de negócio e kpis como quais os principais modelos de carros vendidos e qual a quilometragem que mais saiu. Para o design se baseie numa concessionária internacional famosa.
-
-Pensou por 11s
-
-
-
 
 Criei uma dashboard interativa em HTML a partir da sua planilha base de vendas.xlsx, com uma identidade visual inspirada no universo das concessionárias premium internacionais, especialmente no estilo visual da Porsche: preto, branco, tons neutros e detalhes em vermelho. O layout é original, sem uso de logotipos oficiais.
 
@@ -64,25 +59,16 @@ Status: 19 registros como entregues, 12 pendentes e 5 entre trânsito e cancelam
 
 Esses números consideram os 38 registros originais, antes de aplicar filtros. O faturamento é apresentado com formatação monetária no painel; como a planilha não especifica explicitamente a moeda, vale confirmar essa informação antes de usar o indicador em relatórios oficiais.
 
----
-
 
 Que tratamento a base precisou antes de ir para a IA;
----
+-
 O tratamento feito foi a limpeza dos dados e padronização antes de submeter para a IA
 
--------
-
 Se você usou o ChatGPT com Canvas, um agente com skill, ou os dois;
-
----
+-
 
 Utilizado o Chatgpt
 
--------
-
 O endereço da dashboard publicada
-
-Link da página criada:
-
+-
 https://deciocjr2-cell.github.io/dio_reclame_aqui/dashboard_vendas_motorhaus.html
